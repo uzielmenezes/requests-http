@@ -1,3 +1,9 @@
 {
-    "typescript.tsdk": "node_modules\\typescript\\lib"
+  "typescript.tsdk": "node_modules\\typescript\\lib",
+  "workbench.colorCustomizations": {
+    "tab.activeBackground": "#00020628",
+    "sideBar.background": "#00020628",
+    "editor.background": "#000206f5",
+    "badge.background": "#70747c70"
+  }
 }
